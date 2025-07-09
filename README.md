@@ -61,12 +61,6 @@ uvicorn app:app --reload
 }
 ```
 
-## 📊 Visualisasi (Opsional)
-
-Jika `main.py` menghasilkan plot (seperti distribusi data), bisa ditambahkan di sini:
-
-![Contoh Plot](random_.png)
-
 ## 🧠 Teknologi yang Digunakan
 
 - Python 3.x
